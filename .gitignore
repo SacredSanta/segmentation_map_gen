@@ -6,3 +6,5 @@ protected/data/*.db
 themes/classic/views/
 *.png
 *.bin
+*.h5
+*.npz
